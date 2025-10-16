@@ -29,7 +29,7 @@
 
 ### 📌 Featured Projects
 🌟 **[JS Calculator](https://noludlamini.github.io/Iphone-Style-JS-Calculator/)** – Responsive vanilla JavaScript calculator with a sleek UI.  
-💰 **[Angular Budget Planner](https://github.com/noludlamini/Angular.js-Budget-Planner)** – Intuitive budgeting tool built with Angular.  
+💰 **[Angular Budget Planner](https://noludlamini.github.io/Angular-Budget-Planner/)** – Intuitive budgeting tool built with Angular.  
 💬 **[Random Machine Quote](https://noludlamini.github.io/Random-Quote-Machine/)** – Minimalist app generating inspirational quotes.  
 
 
